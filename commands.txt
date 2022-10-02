@@ -1,0 +1,9 @@
+-- basic commands for the cmd --
+1. cd c:\user\vishal567795 -> to change the directory  to vishal567795
+2. dir -> to know what are the files and sub-folders present in the folder
+3. atom.lnk -> to open the .lnk files simply type
+4. c:\user\vishal567795 cd \vishal567795\Desktop -> concept of relative path 
+5. cls -> To clear all the previous commands on the console window
+6. To start chrome in cmd: start chrome
+7. To make a directory from cmd: mkdir .\maths_for_Ml ->  --it will simply create a folder maths_for_ml in the current directoryss
+
